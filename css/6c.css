@@ -1,0 +1,26 @@
+p{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h1{
+   font-weight: bold;
+   font-size: 28px;
+   margin-bottom: 8px;
+}
+.span1{
+    font-size: 16px;
+    color: grey;
+    margin-left: 8px;
+}
+.h2{
+    color: green;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.h3{
+    color: grey;
+    font-size: 18px;
+}
+.span2{
+    color: red;
+}
